@@ -4,3 +4,4 @@ console.log("Applying stash");
 console.log("Conflict from main branch");
 console.log ("updating from main branch");
 console.log("conflict resolved");
+console.log("soft reset");
